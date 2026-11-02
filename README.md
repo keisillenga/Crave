@@ -1,12 +1,13 @@
 # Crave
-
-> Turn the ingredients you have into something delicious.
+Turn the ingredients you have into something delicious.
 
 Crave is a food and recipe discovery website currently in development. The goal is to help people decide what to eat based on the ingredients they already have at home.
+
 
 ##  About the Project
 
 Ever open your fridge and have no idea what to cook? This project aims to make that easier by suggesting recipes based on available ingredients, meal preferences, and time of day.
+
 
 ##  Planned Features
 
@@ -18,6 +19,7 @@ Ever open your fridge and have no idea what to cook? This project aims to make t
 -  Favourites — Save your favourite recipes.
 -  Shopping List — Keep track of ingredients you need to buy.
 
+
 ##  Built With
 
 - HTML
@@ -25,9 +27,11 @@ Ever open your fridge and have no idea what to cook? This project aims to make t
 - JavaScript
 -  API 
 
+
 ##  Project Status
 
 I'm building this project to improve my web development skills and explore how food, nutrition data, and interactive tools can work together.
+
 
 ##  Roadmap
 
