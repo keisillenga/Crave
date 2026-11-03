@@ -12,7 +12,7 @@ Ever open your fridge and have no idea what to cook? This project aims to make t
 ##  Planned Features
 
 -  Ingredient Finder — Discover recipes using ingredients you already have.
-- Meal Categories — Find ideas for breakfast, lunch, afternoon snacks, and dinner.
+-  Meal Categories — Find ideas for breakfast, lunch, afternoon snacks, and dinner.
 -  Nutrition Calculator — Calculate calories, protein, carbohydrates, fats, and other nutrients.
 -  Smart Ingredient Matching — Find alternatives and identify missing ingredients.
 -  Daily Meal Planner — Plan your meals for the entire day.
